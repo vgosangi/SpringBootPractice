@@ -1,4 +1,4 @@
-package com.practice.springboot.springbootpractice;
+package com.practice.springboot.springbootpractice.Topics;
 
 public class Topic {
     private int id;
